@@ -1,6 +1,7 @@
 = cielo
 
 {<img src="https://secure.travis-ci.org/carlosipe/cielo.png" />}[http://travis-ci.org/carlosipe/cielo]
+{<img src="https://codeclimate.com/github/carlosipe/cielo.png" />}[https://codeclimate.com/github/carlosipe/cielo]
 
 Integração com a Cielo via WebServices
 

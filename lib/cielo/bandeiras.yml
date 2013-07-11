@@ -1,0 +1,12 @@
+-
+  name: visa
+  installments: 3
+  debit: true
+-
+  name: mastercard
+  installments: 3
+  debit: false
+-
+  name: amex
+  installments: 1
+  debit: false

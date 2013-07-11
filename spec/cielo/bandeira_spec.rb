@@ -4,11 +4,11 @@ describe Cielo::Bandeira do
   before do
     @bandeiras = Cielo::Bandeira.all
     @params = {
-      numero: 123,
-      valor: 100,
+      numero => 123,
+      valor => 100,
       :"url-retorno" => 'localhost',
-      autorizar: 2,
-      capturar: true
+      autorizar => 2,
+      capturar => true
     }
   end
   it "each should have valid name, installments and debit" do
